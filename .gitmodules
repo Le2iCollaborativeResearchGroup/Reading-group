@@ -1,0 +1,15 @@
+[submodule "MinsuCho-CVPR2014-Max-pooling-Graph-Matching"]
+	path = MinsuCho-CVPR2014-Max-pooling-Graph-Matching
+	url = https://github.com/Le2iCollaborativeResearchGroup/MinsuCho-CVPR2014-Max-pooling-Graph-Matching.git
+[submodule "Fanelli-et-al-CVPR-2011-Head-pose-estimatation-RF"]
+	path = Fanelli-et-al-CVPR-2011-Head-pose-estimatation-RF
+	url = https://github.com/Le2iCollaborativeResearchGroup/Fanelli-et-al-CVPR-2011-Head-pose-estimatation-RF.git
+[submodule "Kostinger-et-al-CVPR-2012-large-scale-metric-learning"]
+	path = Kostinger-et-al-CVPR-2012-large-scale-metric-learning
+	url = https://github.com/Le2iCollaborativeResearchGroup/Kostinger-et-al-CVPR-2012-large-scale-metric-learning.git
+[submodule "Zikic-et-al-MedIA-2014-encoding-atlases"]
+	path = Zikic-et-al-MedIA-2014-encoding-atlases
+	url = https://github.com/Le2iCollaborativeResearchGroup/Zikic-et-al-MedIA-2014-encoding-atlases.git
+[submodule "Tu-et-al-CVPR-2008-auto-context"]
+	path = Tu-et-al-CVPR-2008-auto-context
+	url = https://github.com/Le2iCollaborativeResearchGroup/Tu-et-al-CVPR-2008-auto-context.git
